@@ -7,6 +7,7 @@
 
 # 데이터 전처리
 코너를 구분하는데 필요한 영역은 좌측 상단에 고정되어 있음으로 해당 영역만 잘라내서 학습 데이터를 생성하는 것도 가능
+
 ![image](https://github.com/Lee-Siyoung/Aivle_3_image/assets/57993534/24ebdc30-9fe5-4a51-8df2-f6fb1f7b1723)
 ![image](https://github.com/Lee-Siyoung/Aivle_3_image/assets/57993534/ad7afc0f-13a6-4585-b72d-ac2a4ef03a47)
 
